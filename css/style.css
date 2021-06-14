@@ -1,0 +1,15 @@
+
+:root {
+    --default-text-color: rgb(80, 196, 27);
+}
+
+.primary {
+    color: rgb(30, 27, 196) !important;
+}
+
+.nav-link:hover {
+    cursor: pointer;
+}
+
+
+
